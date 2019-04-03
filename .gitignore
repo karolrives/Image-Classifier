@@ -1,6 +1,6 @@
 # Do not track any content of these folders
 
-.idea/
-venv/
+/.idea/
+/venv/
 
 

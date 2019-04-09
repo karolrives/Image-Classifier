@@ -13,7 +13,7 @@ This project was part of the Data Science Udacity Program and needed to be compl
 ## File Description
 
 This project is divided in two parts. 
-The first part is a Jupyter Notebook, where I implemented an image classifier with PyTorch. the files involved in this part are the following: 
+The first part is a Jupyter Notebook, where I implemented an image classifier with PyTorch. The files involved in this part are the following: 
 
 * **Image Classifier Project_Final.ipynb**
 * **cat_to_name.json**: Dictionary file. Needed for mapping the name of images.
